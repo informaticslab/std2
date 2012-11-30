@@ -1,0 +1,69 @@
+0,root,STD Guidelines
+1,content,Summary,summary
+1,content,Introduction,introduction
+1,content,Methods,methods
+1,header,Clinical Prevention Guidance
+2,content,Clinical Prevention Guidance,clinical-prevention-guidance
+2,content,STD/HIV Prevention Counseling,CPG-STD-HIV-prevention-counseling
+2,content,Prevention Methods,CPG-prevention-methods
+2,content,Partner Management,CPG-partner-management
+2,content,Reporting and Confidentiality,CPG-reporting-and-confidentiality
+1,header,Special Populations
+2,content,Pregnant Women,spec-pop-pregnant-women
+2,content,Adolescents,spec-pop-adolescents
+2,content,Children,spec-pop-children
+2,content,Persons in Correctional Facilities,spec-pop-correctional
+2,content,MSM,spec-pop-MSM
+2,content,Women Who Have Sex with Women,spec-pop-women-sex-with-women
+1,header,"HIV Infection: Detection, Counseling, and Referral"
+2,content,"HIV Infection: Detection, Counseling, and Referral",HIV-infec-detec-coun-ref
+2,content,Detection of HIV Infection: Screening and Establishing a Diagnosis,detection-of-HIV-infec
+2,content,Counseling for Patients with HIV Infection and Referral to Support Services,coun-for-patients-with-HIV
+2,content,Special Considerations,spec-considerations
+1,header,"Diseases Characterized by Genital, Anal, or Perianal Ulcers"
+2,content,"Diseases Characterized by Genital, Anal, or Perianal Ulcers",diseases-char-by-gen-ana-perian
+2,content,Chancroid,chancroid
+2,content,Genital HSV Infections,genital-HSV-infections
+2,content,Granuloma Inguinale (Donovanosis),granuloma-inguinale
+2,content,Lymphogranuloma Venereum,lymphogranuloma-venereum
+2,content,Syphilis,syphilis
+2,content,Congenital Syphilis,congenital-syphilis
+1,content,Management of Persons Who Have a History of Penicillin Allergy,man-of-ppl-allergic-to-penicillin
+1,header,Diseases Characterized by Urethritis and Cervicitis,dis-char-by-ureth-and-cerv
+2,content,Urethritis,dis-char-by-ureth-and-cerv
+2,content,Nongonococcal Urethritis Diagnosis,nongonococcal-urethritis
+2,content,Cervicitis,cervicitis
+1,content,Chlamydial Infections,chlamydial-infections
+1,header,Gonococcal Infections
+2,content,In Adolescents and Adults,gonococcal-infections-adol-adult
+2,content,Among Infants,gonococcal-infections-infants
+2,content,Among Children,gonococcal-infections-children
+1,content,Diseases Characterized by Vaginal Discharge,dis-chara-vag-discharge
+1,content,Pelvic Inflammatory Disease,PID
+1,content,Epididymitis,epididymitis
+1,content,Human Papillomavirus Infection,HPV-infection
+1,content,Genital Warts,genital-warts
+1,content,Cervical Cancer Screening for Women Who Attend STD Clinics or Have a History of STDs,cerv-canc-screen-attend-clinic-or-stdhx
+1,content,Vaccine-Preventable STDs,vacc-preventable-STDs
+1,content,Hepatitis C,hepatitis-C
+1,content,"Proctitis, Proctocolitis, and Enteritis",proctitis-proctocolitis-enteritis
+1,content,Ectoparasitic Infections,ectoparasitic-infections
+1,content,Sexual Assault and STDs,sexual-assault-STDs
+1,content,Terms and Abbreviations Used in This Report,terms-and-abbreviations
+1,content,Consultants,2010-guidelines-consultants
+1,content,Disclaimer,MMWR-disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

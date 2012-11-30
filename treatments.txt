@@ -1,0 +1,40 @@
+0,root,Treatments
+1,content,Bacterial Vaginosis,methods
+1,content,"Candidiasis, Vulvovaginal",methods
+1,content,Cervicitis,methods
+1,content,Chancroid,methods
+1,heading,Chlamydia
+2,content,Adults,methods
+2,content,Infants,methods
+1,content,Epididymitis,methods
+1,content,Genital Warts,methods
+1,heading,Gonorrhea
+2,content,"Adolescents/Adults",methods
+2,content,Disseminated,methods
+2,content,"Meningitis/Endocarditis",methods
+2,content,Infants,methods
+2,content,Children,methods
+1,content,Hepatitis A,methods
+1,content,Hepatitis B,methods
+1,content,Hepatitis C,methods
+1,content,"Herpes (HSV)",methods
+1,content,Lymphogranuloma Venereum,methods
+1,content,Pediculosis Pubis,methods
+1,content,Pelvic Inflammatory Disease,methods
+1,content,"Proctitis/Colitis/Enteritis",methods
+1,content,Scabies,methods
+1,content,"Scabies (crusted)",methods
+1,heading,Syphilis
+2,content,Primary and Secondary,table.html
+2,content,Latent,methods
+2,content,Tertiary,methods
+2,content,Neurosyphilis,methods
+2,content,"Syphilis & HIV",methods
+2,content,"Syphilis & Pregnancy",methods
+2,heading,Congenital
+3,content,Newborn,methods
+3,content,"Infants & Children",methods
+1,content,Trichomoniasis,methods
+1,heading.Urethritis
+2,content,Male,methods
+2,content,Nongonococcal,methods
